@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Ravemaster</title>
+<link>https://djspinback69.github.io/ravemaster-updates/appcast.xml</link>
+<!-- items: newest first -->
+<item>
+  <title>Ravemaster build 150</title>
+  <pubDate>Sat, 10 Oct 2026 18:52:43 +0100</pubDate>
+  <sparkle:version>150</sparkle:version>
+  <sparkle:shortVersionString>Beta 1 · build 150</sparkle:shortVersionString>
+  <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+  <description><![CDATA[<h3>What's new in build 150</h3><ul><li>Updates: Ravemaster now checks for new versions when it opens, and from Ravemaster &gt; Check for Updates…</li><li>The launch box shows on its own, centred, for 3 seconds</li></ul>]]></description>
+  <enclosure url="https://github.com/djspinback69/ravemaster-updates/releases/download/v150/Ravemaster-v150.zip" length="53513486" type="application/octet-stream" sparkle:edSignature="n/Rg+sAwd0VCSFrREiiT4hG8KurPcCP+3JXjhiqjZXipygwNwQsoMWJl1maEtFRTD0P+XQDvC3hEnIh5p+zsAw=="/>
+</item>
+</channel>
+</rss>
